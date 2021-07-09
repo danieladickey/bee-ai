@@ -86,4 +86,3 @@ __The Follow Commands are all run from the _Anaconda Prompt_:__
     *       pip install pickle-mixin
     or
     *       conda install pickle   
-    # BeeAI
